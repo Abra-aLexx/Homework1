@@ -3,7 +3,7 @@ package com.abra.homework1;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-
+// Main class
 public class MainActivity extends AppCompatActivity {
 
     @Override
